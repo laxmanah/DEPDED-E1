@@ -3,5 +3,6 @@ class A1
     psvm(s[] args)
     {
       sop("version 1.a")
+      sop("version 1.a+1.b")
     }
   }
