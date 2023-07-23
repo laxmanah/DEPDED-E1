@@ -5,6 +5,7 @@ class A1
       sop("version 1.a")
       sop("version 1.a+1.b")
       sop("version 1.a+1.b+1.c")
+      sop("version 1.a+1.b+1.c+1.d")
       sop("version 2.0")
     }
   }
