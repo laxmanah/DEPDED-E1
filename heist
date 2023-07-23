@@ -4,5 +4,6 @@ class A1
     {
       sop("version 1.a")
       sop("version 1.a+1.b")
+      sop("version 1.a+1.b+1.c")
     }
   }
