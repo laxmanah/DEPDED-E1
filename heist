@@ -1,0 +1,7 @@
+class A1
+  {
+    psvm(s[] args)
+    {
+      sop("version 1.a")
+    }
+  }
